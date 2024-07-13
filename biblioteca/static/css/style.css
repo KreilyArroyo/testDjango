@@ -1,0 +1,59 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+
+}
+
+body {
+    background-color: slategrey;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+      
+    
+}
+
+.containerTitulo {
+    
+    
+    width: 50;
+    height: 50;
+    left: 50;
+    
+}
+
+.container-jumbotron {
+    height: 5%;
+    color:black;
+    
+
+}
+
+.inicio {
+    background-color:  slategrey;
+}
+
+.map {
+    filter: grayscale(100%) invert(92%) contrast(93%);
+}
+
+.navbar {
+    background-color: yellow;
+    color: white;
+    
+
+}
+
+.nav-bar .logo {
+    display: inline-block;
+    margin-right: 20px;
+}
+  
+.nav-bar .logo img {
+    width: 10px;
+    height: 10px;
+}
